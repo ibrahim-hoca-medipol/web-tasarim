@@ -1,26 +1,9 @@
-     
-<!DOCTYPE html>
-<html>
-<head>
-<title>Sayfa başlığı</title>
-</head>
-<body>
-<h2 style="background-color:red">
-Kırmızı Zemin
-</h2>
-
-<h2 style="background-color:orange">
-Kavuniçi Zemin
-</h2>
-
-<h2 style="background-color:yellow">
-Sarı Zemin
-</h2>
-
-<h2 style="background-color:blue;color:white">
-Mavi Zemin
-</h2>
-</body>
-</html>
-
-   
+body {
+  background-color: red;
+}
+h1 {
+  color: yellow;
+}
+p {
+  color: white;
+}
